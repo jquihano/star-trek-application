@@ -3,7 +3,7 @@ A field guide database to various star trek aliens
 
 **Link to project:** https://jquihano.github.io/star-trek-application/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://raw.githubusercontent.com/jquihano/star-trek-application/main/star-trek.gif)
 
 ## How It's Made:
 
